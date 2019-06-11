@@ -29,4 +29,7 @@ generator_iterator.__next__()
 generator_iterator.__next__()
 
 print('\n\tGenerator iterators raise StopIteration')
-generator_iterator.__next__()
+try:
+    generator_iterator.__next__()
+except StopIteration:
+    print('Reached end of collection')
