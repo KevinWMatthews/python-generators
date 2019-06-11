@@ -1,13 +1,14 @@
 # Introduction to Python Generators
 
 Exploration of Python generators and how they work.
+Supporting content for
+[this blog post](https://blog.kevinwmatthews.com/generators-in-python/).
 
 
 ## Background
 
 Python generators as syntactic sugar for iterators. These example scripts
-illustrate Python-level details of how this works. The scripts are content for
-[this blog post](https://blog.kevinwmatthews.com/generators-in-python/).
+illustrate Python-level details of how this works.
 
 
 ## Setup
