@@ -27,7 +27,7 @@ but stock Python3 is sufficient.
 Use:
 
 ```bash
-$ python3 <script_name>.py
+$ python3 <script_name>
 # or
-(venv) $ python <script_name>.py
+(venv) $ python <script_name>
 ```
