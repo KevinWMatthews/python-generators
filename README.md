@@ -7,7 +7,8 @@ Supporting content for
 
 ## Background
 
-Python generators as syntactic sugar for iterators. These example scripts
+Python generators as syntactic sugar for iterators, which enable Python's
+`for` loop. These example scripts
 illustrate Python-level details of how this works.
 
 
