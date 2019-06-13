@@ -4,9 +4,11 @@ def a_generator_function():
     while True:
         print("Before yield: {}".format(i))
         yield
-        i += 1
         print("After yield: {}".format(i))
+        i += 1
+        print("After increment: {}".format(i))
         if i > 2:
+            print("Returning from generator function")
             return
 
 print('\n\tCalling a generator function returns a generator iterator')
